@@ -1,3 +1,5 @@
+package br.com.mvbos.lgj;
+
 import java.awt.*;
 import javax.swing.*;
 
