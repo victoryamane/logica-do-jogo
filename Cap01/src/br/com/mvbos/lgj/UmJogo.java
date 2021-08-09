@@ -1,5 +1,4 @@
-package br.com.mvbos;
-
+package br.com.mvbos.lgj;
 
 import javax.swing.*;
 import java.awt.*;

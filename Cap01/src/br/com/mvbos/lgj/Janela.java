@@ -1,4 +1,4 @@
-package br.com.mvbos;
+package br.com.mvbos.lgj;
 
 import java.awt.Graphics;
 import javax.swing.JFrame;
